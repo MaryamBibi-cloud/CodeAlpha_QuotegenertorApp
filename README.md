@@ -1,2 +1,20 @@
 # CodeAlpha_QuotegenertorApp
-Random Quote Generator App built using Flutter and Dart for CodeAlpha App Development Internship.
+
+This repository contains a Flutter-based Random Quote Generator developed for the CodeAlpha App Development Internship.
+
+## Features
+
+* Generate random motivational quotes
+* Displays author names
+* Simple and clean user interface
+
+## Technology Used
+
+* Flutter
+* Dart
+
+## Author
+
+Maryam Bibi
+
+
