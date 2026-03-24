@@ -1,0 +1,26 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Android related
+android/.gradle/
+android/app/build/
+
+# iOS related
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/.symlinks/
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Logs & temp files
+*.log
+*.tmp
+*.lock
+
+# Mac files
+.DS_Store
